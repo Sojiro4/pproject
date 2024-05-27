@@ -3,7 +3,7 @@ with open("README.md","r",encoding="utf-8")as fh:
     long_description=fh.read()
 setuptools.setup(
     name="pproject",
-    version="0.0.7",
+    version="0.0.8",
     author="Sojiro4",
     author_email="s2122097@stu.musashino-u.ac.jp",
     description="Predicted price change for iphone in XX years",
